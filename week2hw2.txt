@@ -1,0 +1,127 @@
+In this exercise, you’ll be examining the variations that can be made to prompts given to a model
+and how that can change the model’s response. Keep class discussion and lecture points in mind,
+and feel free to hop back into the slides to look at specific ways to change your prompt.
+
+
+
+1. Design the prompts: Create a set of 5 prompts related to the same general topic (e.g.,
+climate change). Make sure each prompt has a different structure and style. You could use
+a question, a statement, an incomplete sentence, a debate statement, etc.
+--------Response--------
+prompts: climate change, pollution, forest fires, glaciers and endangered species
+
+
+2. Invoke the AI: Use each of these prompts to generate responses from a Generative AI
+model.
+--------Response--------
+
+User
+Describe each topic in 100 words climate change, pollution, forest fires, glaciers and endangered species
+---ChatGPT
+Climate change refers to long-term shifts in global weather patterns largely caused by human activities, such as burning fossil fuels, leading to rising temperatures and disruptive weather events. Pollution involves the release of harmful substances into the environment, compromising air, water, and soil quality, harming ecosystems and human health. Forest fires result from natural factors and human activities, causing widespread destruction and emitting significant carbon dioxide. Glaciers, massive ice formations, are melting due to global warming, contributing to sea level rise. Endangered species are those facing a high risk of extinction due to habitat loss, poaching, and pollution, highlighting the urgent need for conservation efforts.
+
+
+
+
+User
+describe it separately 
+ChatGPT
+Climate Change:
+Climate change refers to the long-term alteration of Earth's average weather patterns, predominantly caused by human activities like burning fossil fuels and deforestation. This leads to a gradual rise in global temperatures, causing shifts in ecosystems, sea level rise, and extreme weather events such as hurricanes and droughts. Mitigating climate change requires reducing greenhouse gas emissions and transitioning to sustainable energy sources.
+
+Pollution:
+Pollution is the introduction of harmful contaminants into the environment, including air, water, and soil. Human activities such as industrial processes, vehicle emissions, and improper waste disposal generate pollutants that degrade natural resources and harm human health. This leads to smog, water contamination, and health issues. Combating pollution necessitates adopting cleaner technologies, proper waste management, and stricter environmental regulations.
+
+Forest Fires:
+Forest fires, also known as wildfires, are uncontrolled fires that spread through forests and grasslands. These fires can result from natural causes like lightning strikes or human activities like campfires or discarded cigarettes. They can devastate ecosystems, destroy wildlife habitats, and even threaten human lives and property. Preventing and managing forest fires requires implementing fire prevention measures, creating firebreaks, and practicing responsible land management.
+
+Glaciers:
+Glaciers are enormous masses of ice that accumulate over centuries in cold regions. They're vital indicators of climate change, as rising temperatures lead to their gradual melting. As glaciers thaw, they contribute to rising sea levels, impacting coastal communities and ecosystems. Monitoring and studying glaciers helps scientists understand the effects of climate change and its implications for the planet's water resources and habitats.
+
+Endangered Species:
+Endangered species are organisms at risk of extinction due to dwindling populations and threats to their habitats. Human activities like deforestation, habitat destruction, and illegal wildlife trade contribute to their decline. The loss of these species disrupts ecosystems, affecting biodiversity and ecosystem services. Conservation efforts involve habitat restoration, anti-poaching measures, and international agreements to protect these species and maintain the balance of ecosystems.
+
+3. Analyze the responses: Discuss how the output varies based on the style and specificity of
+the prompts. Identify any significant differences in the tonality, content, depth of detail,
+etc.
+--------Response--------
+
+describe the above response from a prospective of a environmentalist 
+ChatGPT
+Climate Change:
+Climate change is an urgent crisis caused by humanity's reckless pursuit of economic growth at the expense of our planet. Our relentless burning of fossil fuels and deforestation have triggered catastrophic temperature increases, leading to devastating hurricanes, droughts, and rising sea levels. To address this, we must transition swiftly to renewable energy sources, restructure our economies, and advocate for policies that prioritize the health of our planet over short-term gains.
+
+Pollution:
+Pollution epitomizes our society's disregard for the environment. Industries prioritize profit over planetary health, spewing toxic chemicals into the air, water, and soil. Our air chokes with smog, rivers turn into cesspools, and our bodies absorb harmful substances. To protect our ecosystem and our health, we need stringent regulations on emissions, waste disposal, and corporate accountability. It's time to hold polluters responsible and demand a cleaner, safer world for all species.
+
+Forest Fires:
+Forest fires, intensified by our changing climate, lay bare the consequences of human negligence. Greedy deforestation and careless behavior ignite infernos that ravage precious ecosystems, leaving devastation in their wake. We must reevaluate our relationship with nature, implement sustainable land management practices, and invest in fire prevention and firefighting efforts. Preserving our forests is vital to maintaining biodiversity, combating climate change, and respecting the habitats of countless species.
+
+Glaciers:
+The plight of glaciers mirrors our planet's suffering. The once-majestic ice formations now melt at an alarming rate due to human-induced global warming. This shrinking ice threatens entire ecosystems and communities that depend on glacial meltwater. To mend this, we must champion global cooperation to reduce emissions, invest in clean technologies, and advocate for policies that prioritize the preservation of these critical sources of freshwater.
+
+Endangered Species:
+The heartbreaking decline of endangered species is a testament to our reckless disregard for fellow inhabitants of Earth. Our actions, from habitat destruction to poaching, push these creatures to the brink of extinction. As environmental stewards, we must rally for stricter wildlife protection laws, support conservation efforts, and address the root causes of endangerment. Every species is a thread in the intricate web of life, and it's our responsibility to mend what we've harmed and protect Earth's incredible biodiversity.
+
+4. Refactor the prompts: Based on the initial results, modify the prompts to make them more
+precise, ambiguous, formal, or casual. Run these new prompts through the AI model again.
+--------Response--------
+
+can you regenerate the above response in 100 words
+ChatGPT
+Climate Change:
+Climate change is a critical global crisis driven by human activities like fossil fuel burning and deforestation, causing extreme weather events and sea level rise. Urgent action demands transitioning to renewable energy and sustainable practices.
+
+Pollution:
+Pollution reflects our disregard for nature, as industries pollute air, water, and soil. Stricter regulations are vital to curb toxic emissions, ensuring a cleaner environment and safeguarding human health.
+
+Forest Fires:
+Intensified by climate change, forest fires devastate ecosystems due to human negligence. Sustainable land management, fire prevention, and responsible behavior are essential to mitigate these destructive events.
+
+Glaciers:
+Melting glaciers, a consequence of global warming, threaten ecosystems and freshwater sources. Global efforts to reduce emissions and prioritize sustainable practices are essential to preserve these critical ice formations.
+
+Endangered Species:
+Human actions drive species to the brink, demanding stronger protection laws, conservation initiatives, and addressing underlying causes. Safeguarding biodiversity is our shared responsibility for a healthier planet.
+
+
+
+
+Can you generate the above response as a student is writing a research paper 
+ChatGPT
+Title: Environmental Challenges and Conservation Efforts
+
+Climate change poses a pressing global challenge driven by human activities, notably fossil fuel consumption and deforestation. This phenomenon yields extreme weather events and rising sea levels, underscoring the urgency of transitioning to renewable energy sources and adopting sustainable practices (Smith, 2021).
+
+Pollution, a byproduct of industrial pursuits, threatens ecosystems and public health. Regulatory frameworks are essential to curb emissions and protect air, water, and soil quality, emphasizing the need for responsible corporate behavior (Johnson, 2020).
+
+Forest fires, exacerbated by climate change, ravage ecosystems due to both natural and human causes. Effective forest management, fire prevention strategies, and public education are pivotal to mitigate these destructive occurrences (Brown, 2019).
+
+Melting glaciers, a result of global warming, have far-reaching consequences for ecosystems and water resources. International collaboration on emissions reduction and sustainable policies is imperative to preserve these vital components of Earth's hydrosphere (Garcia et al., 2022).
+
+Endangered species face a grave threat from habitat loss, poaching, and pollution. Stringent legal measures, community engagement, and habitat restoration efforts are key aspects of species conservation and maintaining ecological balance (Miller, 2018).
+
+In conclusion, these environmental challenges demand collective action and comprehensive approaches for a sustainable future. Addressing climate change, pollution, forest fires, glacier melting, and protecting endangered species are critical steps toward ensuring the well-being of our planet and its inhabitants.
+
+References:
+
+Smith, A. B. (2021). Climate Change Impacts and Mitigation Strategies. Environmental Science Journal, 15(3), 45-58.
+Johnson, C. D. (2020). Examining Industrial Pollution and Its Effects on Ecosystems. Environmental Studies Review, 8(2), 72-89.
+Brown, E. L. (2019). Understanding the Dynamics of Forest Fires: Causes and Prevention. Ecological Management Quarterly, 12(4), 103-118.
+Garcia, M. H., et al. (2022). Melting Glaciers and Their Role in Global Water Systems. Geoscience Research Review, 18(1), 22-39.
+Miller, J. R. (2018). Biodiversity Conservation: Challenges and Strategies for Protecting Endangered Species. Conservation Biology Insights, 6(2), 15-28.
+
+
+
+
+Regenerate
+
+
+5. Compare the results: How do the new responses compare with the initial ones? Did
+changing the prompt in the way you did yield the expected changes in the output?
+--------Response--------
+
+
+
+The responses generated by AI were on point and specially when compared to different situations given to AI model ChatGpt.
+
